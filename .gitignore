@@ -45,4 +45,6 @@ local.properties
 .studio/
 flows/
 target/
-src/main/api/.repository/ derby.log
+src/main/api/.repository/
+derby.log
+activemq-data/
