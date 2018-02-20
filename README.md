@@ -1,3 +1,7 @@
+# maven-project
+
+This is my maven project that is built in **MuleSoft's** Anypoint Development Advanced class.
+
 ## How to run the project
 
 1. Add the remote repository:
@@ -7,4 +11,4 @@
 
 3. (Optional) Set your MULE_HOME env variable: `export MULE_HOME={locationOfMuleInstall}`
 
-4. Package and deploy: `mvn install` 
+4. Package and deploy: `mvn install`
